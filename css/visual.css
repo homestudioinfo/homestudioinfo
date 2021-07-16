@@ -133,21 +133,21 @@
     list-style: none;
   }
   
-  #clips {
+  #graphics {
     text-align: center;
     margin-bottom: 20px;
   }
   
-  .audio_clips {
+  .graphics_pics {
     text-align: center;
     margin-bottom: 20px;
   }
   
-  .audio_clips ul {
+  .graphics_pics ul {
     margin-bottom: 40px;
   }
   
-  .audio_clips li {
+  .graphics_pics li {
     list-style: none;
   }
   
